@@ -1,0 +1,12 @@
+rasterio
+geopandas
+numpy
+pandas
+scikit-learn
+xgboost
+fastapi
+uvicorn
+python-multipart
+shapely
+requests
+leaflet
